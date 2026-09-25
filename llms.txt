@@ -1,0 +1,6 @@
+# Caption Pro
+> Free, private, in-browser AI captions for Hindi, Hinglish and English reels. Timeline editor, 40+ caption styles, SRT/VTT/ASS export, burned-in video, and an After Effects package.
+
+- Live app: https://subscriptions-dot.github.io/caption-pro-live/
+- Runs entirely in the browser (WebGPU Whisper). Video never leaves the device. No account, no watermark.
+- Best for: reels/shorts creators, Indian-language and code-switched (Hinglish) speech, editors who finish in After Effects.
